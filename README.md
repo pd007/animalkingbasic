@@ -6,13 +6,6 @@
 
 <img src='http://i.imgur.com/VxnikP1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-## Before you begin
-
-1. Create a new iOS project
-2. Call it "Animal Kingdom Basic"
-3. Save the project
-4. Download [Images](https://github.com/alimir1/animal-kingdom-basic/tree/master/Animal%20Images)
-
 ## Required features and components
 * Three buttons with images of monkey, elephant, and a tiger. When user taps on either of the button, the label underneeth displays the name of the selected animal. You can download the images [here](https://github.com/alimir1/animal-kingdom-basic/tree/master/Animal%20Images).
 * A label underneeth the images that tells the user what animal was selected.
